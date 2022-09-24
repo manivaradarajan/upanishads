@@ -1,0 +1,2 @@
+# upanishads
+Translations of Upanishads
